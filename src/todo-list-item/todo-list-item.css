@@ -1,0 +1,25 @@
+.important{
+	color: #4364d8;
+    font-weight: 700;
+}
+.todo-list-item{
+    padding-left: 10px;
+}
+.done{
+	text-decoration: line-through;
+    color: black;
+	font-weight: 400;
+}
+.btn-list > button{
+	margin: 5px;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+.btn-list > button i{
+	min-width:10px;
+}
+.div-group-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
